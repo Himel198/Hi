@@ -13,7 +13,7 @@ pkg install git
 pkg install python2
 
 
-git clone 
+git clone https://github.com/Himel198/Hi
 
 
 cd Hi
